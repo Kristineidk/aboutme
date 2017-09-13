@@ -1,6 +1,6 @@
 # Kristine Doll
 This is a page about me.
 
-![Hey I'm Krisinte] https://www.instagram.com/p/BYWagPZHOTA/?taken-by=kristine_idk
-That's me ^
+![Hey I'm Krisinte](https://lh3.googleusercontent.com/aME_J3GhyokMjax5DQDoBJAgcxSF1kPptDSGNMFKEGIKAjTSidQEwWk5Mb6v6R7DZHsQkiWvMdptD-aLLUEvdNx6BYYesdM6Gldpo0gP3OsAnEytAkOYMO3ylKfTmvC35P3y6YmOXH-RE_MV5I5BjmBQPW97txELNyfYEzPXZM9oNNfVZ6hvfe2sTmodDO9mSbWpBXaCXHtGVDFyW2UZWoz9QAIID5kr1lnvNGgfA6ph2lSAsyQK6JF-qsRgzj27WZ_BARW3wSnqdY4a2bw1NkqVRvD5tyPYvLOzzRMAY-9pj1w1_Tk0em5ymUkAT1jJLDkxG3193Rf8cdF1FmgTZG1iBBcNAZUxe0BBThwMVRYYkhiCeHYXWORFFvWtx2SvTDdakiQKTWbxDRmoZ1m_KZ_QMluYqlQUf5IiyQlTmplK0ZxmnZLdtkCcgicpa6pNKQUAotreu2unBdSrYpq3udOHxMwcGyCnlk_3jQuln6pvNvTFNfAGcgAIZQPLrdyLcJ6Hm89O_0sTixWhHAKI1RkCX4IP6-8EPb-rAtFkssBdErqxsyOeZ-CJoFFeOh1_SrlVIMVPbVsDa7WVBB8BXdzMRYS8NG4yyUtCYLs3Yw=w2686-h1790-no)
+<p> That's me ^ </p>
 
